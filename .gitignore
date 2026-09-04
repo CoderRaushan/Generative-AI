@@ -1,0 +1,18 @@
+# Environment variables
+.env
+.env.*
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
