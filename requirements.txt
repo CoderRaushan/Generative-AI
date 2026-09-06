@@ -3,3 +3,6 @@ python-dotenv
 langchain_google_genai 
 langchain_openai
 langchain-ollama
+
+
+# python -m pip install 
