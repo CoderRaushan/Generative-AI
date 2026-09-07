@@ -3,6 +3,7 @@ python-dotenv
 langchain_google_genai 
 langchain_openai
 langchain-ollama
-
-
+pypdf 
+beautifulsoup4
+wikipedia
 # python -m pip install 
