@@ -6,4 +6,7 @@ langchain-ollama
 pypdf 
 beautifulsoup4
 wikipedia
+langchain-text-splitters
+langchain-chroma
+
 # python -m pip install 
