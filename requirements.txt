@@ -8,5 +8,7 @@ beautifulsoup4
 wikipedia
 langchain-text-splitters
 langchain-chroma
+langgraph
+Ipython
 
 # python -m pip install 
