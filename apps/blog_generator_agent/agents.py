@@ -58,10 +58,11 @@ def writer_agent(llm:ChatGroq,topic:str,audience:str,research:str,feedback:str)-
     if not feedback:
         revision_hits="This is your first attempt"
     chain=WRITER_PROMPT | llm
+    print(revision_hits)
     result=chain.invoke({
         "topic":topic,
         "audience":audience,
-        "reresearch":research,
+        "research":research,
         "revision_hits":revision_hits,
     })
     return result.content
