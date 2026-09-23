@@ -1,0 +1,153 @@
+[
+  {
+    "title": "Interstellar",
+    "description": "A group of astronauts travel through a wormhole searching for a new home for humanity.",
+    "image":"https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_.jpg"
+
+  },
+  {
+    "title": "Gravity",
+    "description": "An astronaut stranded in space struggles to survive and return safely to Earth.",
+    "image":"https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_.jpg"
+  },
+  {
+    "title": "The Martian",
+    "description": "An astronaut stranded on Mars uses science and ingenuity to survive until rescue.",
+    "image":"https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10980706_p_v13_ar.jpg"
+  },
+  {
+    "title": "Titanic",
+    "description": "Two passengers from different social classes fall in love aboard a doomed ocean liner.",
+    "image":"https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "title": "John Wick",
+    "description": "A retired assassin returns to the criminal underworld seeking revenge after a personal loss.",
+    "image":"https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_.jpg"
+  },
+  {
+    "title": "The Dark Knight",
+    "description": "A masked vigilante battles a criminal mastermind who spreads chaos throughout Gotham City.",
+    "image":"https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg"
+  },
+  {
+    "title": "Shutter Island",
+    "description": "A detective investigates the disappearance of a patient from an isolated psychiatric hospital and begins questioning reality.",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8rWXkoX5_phWk5vjWjW2SP5pOm8tH5lXV6RwjDkk5vFIxWCzM8ftv-Kan&s=10"
+  },
+  {
+    "title": "Finding Nemo",
+    "description": "A cautious father crosses the ocean searching for his missing son.",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuML1pm4l11Fa-h0DUd6ToZbCXkZcAboJswHCWtyEzBPcPKTDpRhFQCx9f&s=10"
+  },
+  {
+    "title": "The Pursuit of Happyness",
+    "description": "A struggling father faces poverty and homelessness while trying to build a better future for himself and his young son.",
+    "image":"https://m.media-amazon.com/images/M/MV5BMTQ5NjQ0NDI3NF5BMl5BanBnXkFtZTcwNDI0MjEzMw@@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "title": "Toy Story",
+    "description": "A group of toys come alive and struggle with friendship, jealousy, identity and being replaced.",
+    "image":"https://m.media-amazon.com/images/M/MV5BZTA3OWVjOWItNjE1NS00NzZiLWE1MjgtZDZhMWI1ZTlkNzYwXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "title": "Inception",
+    "description": "A skilled thief enters people's dreams to steal secrets and is given a mission to plant an idea inside a target's mind.",
+    "image":"https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg"
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "description": "A wrongly convicted banker forms a lasting friendship and searches for hope while serving a long prison sentence.",
+    "image":"https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "title": "Forrest Gump",
+    "description": "A kind-hearted man experiences decades of American history while remaining devoted to the woman he has loved since childhood.",
+    "image":"https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "title": "The Matrix",
+    "description": "A hacker discovers that reality is a simulated world and joins a rebellion against the machines controlling humanity.",
+    "image":"https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "title": "Gladiator",
+    "description": "A betrayed Roman general becomes a gladiator and fights his way toward revenge against the emperor who destroyed his family.",
+    "image":"https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "title": "Avengers: Endgame",
+    "description": "The surviving heroes reunite for a final mission to reverse a devastating loss and restore the people who disappeared.",
+    "image":"https://m.media-amazon.com/images/M/MV5BMWEyNDM2ZmQtMmFkNi00MTQ1LTk1MjItMzdlZGJlYmIyYzZlXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "title": "Jurassic Park",
+    "description": "Scientists and visitors become trapped in a dinosaur theme park after its security systems fail.",
+    "image":"https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg"
+  },
+  {
+    "title": "The Godfather",
+    "description": "The reluctant son of a powerful crime family is drawn into the family's violent world and gradually takes control.",
+    "image":"https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "title": "Fight Club",
+    "description": "A disillusioned office worker and a charismatic stranger create an underground fight club that grows into something dangerous.",
+    "image":"https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "title": "La La Land",
+    "description": "An aspiring actress and a jazz musician fall in love while pursuing ambitious creative careers in Los Angeles.",
+    "image":"https://m.media-amazon.com/images/M/MV5BMDllYjliOTUtMDJjZC00ODIzLWJmNGMtOWI2NzQxMjA2NzdlXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "title": "3 Idiots",
+    "description": "Three engineering students navigate academic pressure, friendship and expectations while questioning a rigid education system.",
+    "image":"https://m.media-amazon.com/images/M/MV5BNzc4ZWQ3NmYtODE0Ny00YTQ4LTlkZWItNTBkMGQ0MmUwMmJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "title": "Dangal",
+    "description": "A former wrestler trains his daughters to become competitive wrestlers while challenging social expectations in rural India.",
+    "image":"https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_.jpg"
+  },
+  {
+    "title": "Zindagi Na Milegi Dobara",
+    "description": "Three friends take a road trip across Spain that forces them to confront fear, relationships and how they want to live.",
+    "image":"https://m.media-amazon.com/images/M/MV5BOGIzYzg5NzItNDRkYS00NmIzLTk3NzQtZWYwY2VlZDhiYWQ4XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "title": "Taare Zameen Par",
+    "description": "A misunderstood child struggling with dyslexia finds confidence after a compassionate teacher recognizes his creativity.",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdoUZNEP93x4JGcyBQQAGFObw3b50bz7hlUPO15N7eRA&s=10"
+  },
+  {
+    "title": "Lagaan",
+    "description": "Villagers under colonial rule challenge British officers to a cricket match in hopes of escaping a crushing agricultural tax.",
+    "image":"https://m.media-amazon.com/images/M/MV5BM2FmODM4OTktOTRjOS00ZTIzLWIzZjAtMDBhOGEzYThkNzMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "title": "Dilwale Dulhania Le Jayenge",
+    "description": "Two young Indians living abroad fall in love, but family tradition and an arranged marriage stand between them.",
+    "image":"https://m.media-amazon.com/images/M/MV5BMDQyMDI4ZGMtYjI5MS00YTk1LTk3ZDgtZTA3MzQ5YWQ4Y2Q4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "title": "Gully Boy",
+    "description": "A young man from a poor Mumbai neighborhood uses hip-hop and street rap to pursue a life beyond poverty and social limitations.",
+    "image":"https://m.media-amazon.com/images/M/MV5BOWFkY2M3NDctZGEzMS00M2VmLTgzMTAtZWFiNjVmZDc5NWFjXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "title": "Queen",
+    "description": "After being abandoned before her wedding, a sheltered young woman travels alone on her planned honeymoon and discovers independence.",
+    "image":"https://m.media-amazon.com/images/M/MV5BZWU0ZWFhODYtMWE5NC00YzNiLWJlZTctMjFhODhjNDdmZjFmXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "title": "Bajrangi Bhaijaan",
+    "description": "A kind-hearted Indian man crosses borders and overcomes political obstacles to reunite a lost mute Pakistani girl with her family.",
+    "image":"https://m.media-amazon.com/images/M/MV5BYzVjMjZiNGUtZjZiNy00Yzg4LWEzYzYtMmI1NDg5NWNiNjUwXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "title": "Andhadhun",
+    "description": "A pianist pretending to be blind becomes trapped in a dangerous web of murder, deception and unpredictable consequences.",
+    "image":"https://m.media-amazon.com/images/M/MV5BZjc5OWIzOTgtMmM2ZS00ZjZhLTkyZWItMTFjYTc0NWQ4NzhkXkEyXkFqcGc@._V1_.jpg"
+  }
+]

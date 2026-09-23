@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+numpy
+python-dotenv
+langchain_google_genai

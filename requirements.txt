@@ -10,5 +10,5 @@ langchain-text-splitters
 langchain-chroma
 langgraph
 Ipython
-
-# python -m pip install 
+fastapi uvicorn
+# python -m pip install fastapi uvicorn
