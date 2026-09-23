@@ -1,2 +1,2 @@
 .env
-create_embeddings.py
+movie_embeddings.npy
